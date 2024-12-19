@@ -1,4 +1,4 @@
-# LinkedIn Job Market Analysis [(Dashboard)](https://public.tableau.com/app/profile/ryan.matthew8418/viz/LinkedInAnalysis_17260258096750/Title)
+# LinkedIn Job Market Analysis [(Link To Dashboard)](https://public.tableau.com/app/profile/ryan.matthew8418/viz/LinkedInAnalysis_17260258096750/Title)
 
 ## Overview
 
